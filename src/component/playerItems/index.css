@@ -1,0 +1,12 @@
+.image-container {
+  display: flex;
+  width: 155px;
+}
+.image {
+  width: 155px;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+}
